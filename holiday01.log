@@ -1,0 +1,7 @@
+[INFO][2016-01-23 23:15,453]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@4ec57293: startup date [Sat Jan 23 23:09:15 CST 2016]; root of context hierarchy
+[INFO][2016-01-23 23:15,557]Loading XML bean definitions from class path resource [spring.xml]
+[INFO][2016-01-23 23:15,811]JSR-250 'javax.annotation.ManagedBean' found and supported for component scanning
+[INFO][2016-01-23 23:15,814]JSR-330 'javax.inject.Named' annotation found and supported for component scanning
+[INFO][2016-01-23 23:15,985]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[INFO][2016-01-23 23:16,011]Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@75c3016b: defining beans [userService,org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,org.springframework.context.annotation.internalPersistenceAnnotationProcessor,org.springframework.context.annotation.ConfigurationClassPostProcessor$ImportAwareBeanPostProcessor#0]; root of factory hierarchy
+[INFO][2016-01-23 23:16,032]sshe
