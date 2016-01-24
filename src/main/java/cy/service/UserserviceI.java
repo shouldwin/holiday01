@@ -1,6 +1,6 @@
 package cy.service;
 
 public interface UserserviceI {
-	public void text();
+	public void test();
 
 }
