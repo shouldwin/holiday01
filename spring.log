@@ -1,0 +1,6 @@
+15:54:08,473 INFO  [org.springframework.context.support.ClassPathXmlApplicationContext] Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7caee177: startup date [Mon Jan 25 15:54:08 CST 2016]; root of context hierarchy
+ 15:54:08,559 INFO  [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] Loading XML bean definitions from class path resource [spring.xml]
+ 15:54:08,792 INFO  [org.springframework.context.annotation.ClassPathBeanDefinitionScanner] JSR-250 'javax.annotation.ManagedBean' found and supported for component scanning
+ 15:54:08,794 INFO  [org.springframework.context.annotation.ClassPathBeanDefinitionScanner] JSR-330 'javax.inject.Named' annotation found and supported for component scanning
+ 15:54:08,870 INFO  [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] Loading XML bean definitions from class path resource [spring-hibernate.xml]
+ 
